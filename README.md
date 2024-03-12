@@ -8,8 +8,8 @@ I am currently working on making a new portfolio website using Astro and React.j
 
 ## How to reach me
 
-fahadijaz91@outlook.com
-www.linkedin.com/in/fahad-ijaz
+- fahadijaz91@outlook.com
+- www.linkedin.com/in/fahad-ijaz
 <!--
 **fi0321/fi0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
