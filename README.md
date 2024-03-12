@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Fahad Ijaz, and I'm a fullstack developer! I have experience with the React/Node.js/PostgreSQL stack on a professional level, and have worked on some personal projects with the likes of Python, Java, ASP.NET and C#. I am also working on Data Science projects and am knowledgable about Pandas, Numpy, Tableau, R and D3.js. I am in the process of completing Google Advanced Data Analytics Certificate. I am currently seeking full-time employment.
+
+## What I am working on
+
+I am currently working on making a new portfolio website using Astro and React.js.
+
+## How to reach me
+
+fahadijaz91@outlook.com
+www.linkedin.com/in/fahad-ijaz
 <!--
 **fi0321/fi0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
